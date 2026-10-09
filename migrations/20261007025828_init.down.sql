@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS links;
+
+DROP TABLE IF EXISTS organizations;
+
+DROP TABLE IF EXISTS users;
